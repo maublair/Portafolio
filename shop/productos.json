@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Web Basica",
+        "category" : "Web",
+        "price" : "150",
+        "img" : "./images/1.png"
+    },
+    {
+        "name" : "Web Portafolio",
+        "category" : "Web",
+        "price" : "120",
+        "img" : "./images/2.png"
+    },
+    {
+        "name" : "Ecommerce Emprendedor",
+        "category" : "Ecommerce",
+        "price" : "250",
+        "img" : "./images/3.png"
+    },
+    {
+        "name" : "Ecommerce Con Todo",
+        "category" : "Ecommerce",
+        "price" : "350",
+        "img" : "./images/4.png"
+    },
+    {
+        "name" : "Servicio Asesoria",
+        "category" : "Asesoria",
+        "price" : "500",
+        "imgSrc" : "./images/5.png"
+    }
+]
